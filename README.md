@@ -2,11 +2,13 @@
 
 本文档取自李沐 https://github.com/mli/paper-reading/blob/main/README.md ，其中以NLP领域文章为主，10年内深度学习里有影响力文章（必读文章），或者近期比较有意思的文章。
 
+本文档所列的文章大多是李沐精读的文章，具体可以参考他的bilibili。
+
 更多关于李沐的相关消息，关注bilibili:https://space.bilibili.com/1567748478?spm_id_from=333.337.0.0
 
 ## 所有论文
 
-包括已经录制完成和之后将要介绍的论文。选取的原则是10年内深度学习里有影响力文章（必读文章），或者近期比较有意思的文章。当然这十年里重要的工作太多了，不可能一一过一遍。在选取的时候我会偏向一些之前 [直播课](https://c.d2l.ai/zh-v2/) 中没讲到过的。 欢迎大家在 [讨论区](https://github.com/mli/paper-reading/discussions) 里提供建（点）议（歌）。
+包括已经录制完成和之后将要介绍的论文。选取的原则是10年内深度学习里有影响力文章（必读文章），或者近期比较有意思的文章。当然这十年里重要的工作太多了，不可能一一过一遍。
 
 （这里引用采用的是 semanticscholar，是因为它提供 [API](https://api.semanticscholar.org/api-docs/graph#operation/get_graph_get_paper) 可以自动获取，不用手动更新。）
 
